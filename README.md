@@ -4,5 +4,5 @@ A maze solver using
 *   A star algorithm
 
 Maze visualization with all indexes:
-<img src="">
+<img src="https://github.com/Mujtaba1399/GBFS-Astar-Maze-Solver/blob/main/maze.PNG">
 
